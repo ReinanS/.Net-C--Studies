@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAQxjIr8BXWVW0EZZFSbdym86zHQCL3DlayewDrwjSZMjonF2M/0ZZKRC/2HgSFWoIrM3vAYohHykBJT2F+oHw==",
+  "success": true,
+  "projectFilePath": "/home/reinan/Documents/github/backend/C#/console/console.csproj",
+  "expectedPackageFiles": [
+    "/home/reinan/.nuget/packages/fluentcolorconsole/2.0.1/fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
